@@ -1,3 +1,2 @@
-# hello-world
-Doing the tutorial...
-Me gusta la tarta
+# challenge-1
+Let's do it!
